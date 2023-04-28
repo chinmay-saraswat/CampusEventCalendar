@@ -4,4 +4,4 @@
 
 This is the brainchild of yours truly, *A M Sanjeev*, a self-proclaimed expert in procrastination and occasional code wizard. But fear not, I'm not alone in this journey! The following contributors who've generously lent their time and skills are:
 1. *Saurab Das*
-@. *Ankush Rawat*
+2. *Ankush Rawat*
